@@ -10,9 +10,9 @@ const About = () => {
     <>
       <Container>
       <Row>
-      <Col><a href="https://drive.google.com/uc?export=download&id=1J_cgwbPoNI3HbThDxWC8qK9WkldoRECA" target="_blank"><FontAwesomeIcon icon={faFilePdf} /></a></Col>
-      <Col><a href="https://drive.google.com/uc?export=download&id=1ZHqkZcin7YkdUCpE62FeXdRJ6cTw1Z6B" target="_blank"><FontAwesomeIcon icon={faFileWord} /></a></Col>
-      <Col><a href="https://github.com/leoashcraft/Resume-September-2023" target="_blank"><FontAwesomeIcon icon={faGithub} /></a></Col>
+      <Col><a href="https://drive.google.com/uc?export=download&id=1J_cgwbPoNI3HbThDxWC8qK9WkldoRECA" aria-label="Download PDF version of resume" target="_blank"><FontAwesomeIcon icon={faFilePdf} /></a></Col>
+      <Col><a href="https://drive.google.com/uc?export=download&id=1ZHqkZcin7YkdUCpE62FeXdRJ6cTw1Z6B" aria-label="Download ATS Friendly version of resume" target="_blank"><FontAwesomeIcon icon={faFileWord} /></a></Col>
+      <Col><a href="https://github.com/leoashcraft/Resume-September-2023" aria-label="Review GitHub Repository of resume" target="_blank"><FontAwesomeIcon icon={faGithub} /></a></Col>
       </Row>
       </Container>
     </>
