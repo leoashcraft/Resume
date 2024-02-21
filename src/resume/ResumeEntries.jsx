@@ -2,7 +2,7 @@ import Moment from 'moment';
 
 let resumeData = {
   experience: [ 
-    { title:'Software Engineer (Full Stack)', 
+    { title:'Software Developer (Full Stack)', 
     company:'Strategic Fulfillment Group', 
     location:'Big Sandy, TX', 
     start_date:'20220711', 
