@@ -78,7 +78,7 @@ let resumeData = {
       { title:'Associate of Computer Science', 
         company:'Northeast Texas Community College', 
         location:'Remote', 
-        start_date:'00200701', 
+        start_date:'20200701', 
         end_date:'Present', 
         bullet_points:
           [
