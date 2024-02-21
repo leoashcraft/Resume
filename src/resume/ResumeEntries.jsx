@@ -100,7 +100,7 @@ const ResumeEntries = () => {
             <div className='entry_dates'>
               {
               entry.start_date === 'Present' 
-                ?  'Present' 
+                ?  `${Moment(entry.start_date).format('MMM YYYY')} - Present}`
                 :  `${Moment(entry.start_date).format('MMM YYYY')} - ${Moment(entry.end_date).format('MMM YYYY')}`
               }
             </div>
@@ -125,7 +125,7 @@ const ResumeEntries = () => {
             <div className='entry_dates'>
               {
               entry.start_date === 'Present' 
-                ?  'Present' 
+                ?  `${Moment(entry.start_date).format('MMM YYYY')} - Present}`
                 :  `${Moment(entry.start_date).format('MMM YYYY')} - ${Moment(entry.end_date).format('MMM YYYY')}`
               }
             </div>
