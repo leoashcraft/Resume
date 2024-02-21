@@ -65,7 +65,7 @@ let resumeData = {
             ]
     }
   ],
-  summary: 'Highly motivated Software Developer located in the Dallas–Fort Worth metro-plex endeavors to illuminate mundane tasks, infusing them with ingenuity and automation through astute and visionary methodologies paired with a pursuit of knowledge.',
+  summary: 'A highly motivated and creative software developer with three years of experience in the field, showcasing strong proficiency in PHP, JavaScript, SQL, and Git, while maintaining a practical approach to problem-solving.',
   education: [
     { title:'Full Stack Web Development', 
           company:'+ Data Science [Boot Camp]', 
