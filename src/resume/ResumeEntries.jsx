@@ -82,9 +82,6 @@ let resumeData = {
         end_date:'Present', 
         bullet_points:
           [
-            'Gained a deep and proficient expertise in web development through the use of a varied tech stack, including JavaScript, TypeScript, React JS, Python, PHP, HTML5, CSS3, and more.',
-            'Acquired advanced skills in Python-centric data science, including the sophisticated use of libraries such as Pandas and Matplotlib.', 
-            'Developed multiple applications both solo and in collaborative mock team settings, utilizing a range of tools and technologies including Flask, React, APIs, Git, among others.'
           ]
       }
     ],
