@@ -1,4 +1,4 @@
-# Leo Ashcraft's Resume - September 2023 Revision
+# Leo Ashcraft's Resume - February 2024 Revision
 ## Developed with React + Vite
 
 View Live @ https://ashcraft.tech
@@ -8,7 +8,7 @@ Dallas-Fort Worth Metroplex
 
 Software Engineer @ SFG | Full Stack Web Development + Data Science
 
-I am a Software Engineer at SFG, a leading provider of data-driven solutions for businesses. With over ten of experience in IT and five in software development, I have a passion for creating innovative web applications and automating mundane tasks with astute and visionary methodologies.
+I am a Software Engineer at SFG, a leading provider of data-driven solutions for businesses. With over ten years of experience in IT and three in software development, I have a passion for creating innovative web applications and automating mundane tasks with astute and visionary methodologies.
 
 At SFG, I contribute to the development of a partner data analytics portal that helps optimize business decisions and strategies. I utilize PHP, SQL, JavaScript, HTML, CSS, and other technologies to create scalable and user-friendly web applications and solutions. I also collaborate with my team to develop various partner web apps and evaluate and test software while rectifying bugs.
 
@@ -20,6 +20,4 @@ LinkedIn Profile: https://www.linkedin.com/in/leo3/
 
 Credly.com Certificate Badges: https://www.credly.com/users/leo-ashcraft/badges
 
-Download ATS Friendly Resume: https://drive.google.com/uc?export=download&id=1ZHqkZcin7YkdUCpE62FeXdRJ6cTw1Z6B
-
-Download PDF Version of Resume: https://drive.google.com/uc?export=download&id=1J_cgwbPoNI3HbThDxWC8qK9WkldoRECA
+Download Resume: https://drive.google.com/uc?export=download&id=1KXkTjIl5WudnEjkqjXrP5xTdZPqD7y1M
