@@ -8,7 +8,7 @@ Dallas-Fort Worth Metroplex
 
 Software Engineer @ SFG | Full Stack Web Development + Data Science
 
-I am a Software Engineer at SFG, a leading provider of data-driven solutions for businesses. With over ten years of experience in IT and three in software development, I have a passion for creating innovative web applications and automating mundane tasks with astute and visionary methodologies.
+I am a Software Engineer at SFG, a leading provider of data-driven solutions for high-profile clientele. With over ten years of experience in IT and three in software development, I have a passion for creating innovative web applications and automating mundane tasks with astute and visionary methodologies.
 
 At SFG, I contribute to the development of a partner data analytics portal that helps optimize business decisions and strategies. I utilize PHP, SQL, JavaScript, HTML, CSS, and other technologies to create scalable and user-friendly web applications and solutions. I also collaborate with my team to develop various partner web apps and evaluate and test software while rectifying bugs.
 
