@@ -5,7 +5,7 @@ const About = () => {
     <>
       <div>
         <img src={selfie} alt="Leo Ashcraft (Software Developer)" />
-        Highly motivated Software Developer located in the Dallas–Fort Worth metroplex endeavors to illuminate mundane tasks, infusing them with ingenuity and automation through astute and visionary methodologies.
+        A highly motivated and creative software developer with three years of experience in the field, showcasing strong proficiency in PHP, JavaScript, SQL, and Git, while maintaining a practical approach to problem-solving.
       </div>
     </>
   );
