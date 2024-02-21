@@ -6,7 +6,7 @@ let resumeData = {
     company:'Strategic Fulfillment Group', 
     location:'Big Sandy, TX', 
     start_date:'20220711', 
-    end_date:'20230722', 
+    end_date:'Present', 
     bullet_points:
       [
         'Contribute to development of a partner data analytics portal.', 
@@ -97,7 +97,13 @@ const ResumeEntries = () => {
         <div className="entry">
           <div className="entry_header">
             <div className='entry_title'>{entry.title}</div>
-            <div className='entry_dates'>{Moment(entry.start_date).format('MMM YYYY')} - {Moment(entry.end_date).format('MMM YYYY')}</div>
+            <div className='entry_dates'>
+              {
+              entry.start_date === 'Present' 
+                ?  'Present' 
+                :  `${Moment(entry.start_date).format('MMM YYYY')} - ${Moment(entry.end_date).format('MMM YYYY')}`
+              }
+            </div>
             <div className='entry_company '>{entry.company}</div> 
           </div>
             <div className='bullet_points clearfix'>
@@ -116,7 +122,13 @@ const ResumeEntries = () => {
         <div className="entry">
           <div className="entry_header">
             <div className='entry_title'>{entry.title}</div>
-            <div className='entry_dates'>{Moment(entry.start_date).format('MMM YYYY')} - {Moment(entry.end_date).format('MMM YYYY')}</div>
+            <div className='entry_dates'>
+              {
+              entry.start_date === 'Present' 
+                ?  'Present' 
+                :  `${Moment(entry.start_date).format('MMM YYYY')} - ${Moment(entry.end_date).format('MMM YYYY')}`
+              }
+            </div>
             <div className='entry_company'>{entry.company}</div>
             <div className='location'></div>
           </div>
