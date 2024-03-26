@@ -5,7 +5,7 @@ const About = () => {
     <>
       <div>
         <img src={selfie} alt="Leo Ashcraft (Software Developer)" />
-        A highly motivated and creative software developer with three years of experience in the field, showcasing strong proficiency in PHP, JavaScript, SQL, and Git, while maintaining a practical approach to problem-solving.
+        Detail-oriented developer with 5+ years of experience in web development and data science, currently part of SFG, a technology and operations solutions company. Driven by a passion for innovative web apps that utilize data analytics to address real-world problems.
       </div>
     </>
   );
