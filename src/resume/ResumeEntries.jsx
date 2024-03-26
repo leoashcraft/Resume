@@ -9,9 +9,10 @@ let resumeData = {
     end_date:'Present', 
     bullet_points:
       [
-        'Led the development team in creating a partner data analytics portal. Leveraged SQL, PHP, JavaScript, HTML5, and CSS3, as well as jQuery, AJAX, JSON, and APIs, for the new portal ported from IBM\'s Net.Data. The user interface redesign increased partner engagement by 30% and facilitated more informed, data-driven decision-making.', 
-        'Collaborated with cross-functional teams to successfully deliver web apps for high-profile clientele on time and within budget, achieving a 95% customer satisfaction rate and strengthened partner relationships.', 
-        'Proactively improved software reliability; evaluated and rectified software bugs; reduced post-launch issues; and led to enhanced UX.'
+        'Piloted development team in creating partner data analytics portal. Leveraging PHP, JavaScript, DB2 SQL, CSS, as well as jQuery, AJAX, and APIs. Increased engagement by 30%.', 
+        'Engaged in 100% of the Software Development Life Cycle (SDLC), adopting best practices and OWASP standards across coding, reviews, source version control (Git), builds, testing, and operations.', 
+        'Enhanced software reliability and user experience (UX) by resolving bugs, reducing post-launch issues by 80%. Quality assurance streamlined development cycle for quicker feature delivery.',
+        'Ported 30+ reports and pages from IBM's Net.Data to PHP/JavaScript, aligning with current web standards.'
       ]
     },
     { title:'Network Specialist II', 
@@ -21,9 +22,9 @@ let resumeData = {
     end_date:'20220710', 
     bullet_points:
       [
-        'Initiated process automation efforts by creating a range of powerful PowerScript scripts that reduced time-consuming tasks by 50%, increased efficiency, and proved to deliver considerable time savings.', 
-        'Provided technical support for Windows OS, Office, Tableau, Power BI, and related tools, empowering teams to fully utilize their capabilities.', 
-        'Optimized data processing efficiency by applying Excel data formulas, reducing processing time and improving data accuracy.'
+        'Instituted and perpetuated a PHP/HTML/JS/CSS intranet resource hub for quick access to human resources information, event calendars, bulletin boards, and external resources reducing helpdesk calls by 15%.', 
+        'Amplified process automation by crafting Power Scripts, dramatically reducing tasks by 50%, substantially enhancing efficiency, and securing significant time savings across numerous departmental operations.', 
+        'Provided technical support for Windows OS, Office, Tableau, Power BI, and related tools with 98% satisfaction.'
       ]
     },
     { title:'Director of Operations & IT', 
@@ -33,9 +34,10 @@ let resumeData = {
     end_date:'20170414', 
     bullet_points:
       [
-        'Developed a patient portal with SQL, PHP, JavaScript, HTML, CSS, streamlining data processing and replacing paper forms, reducing administrative workload by 60% and speeding data retrieval.', 
-        'Orchestrated quality assurance efforts by meticulously overseeing EHR data entry. Achieved a 99.9% accuracy rate. This contributed to improved patient care, reduced medical errors, and HIPAA compliance.', 
-        'Developed a recording solution for capturing doctor\'s verbal recordings, enhancing data accessibility for outsourced data entry.'
+        'Engineered patient portal using PHP, JavaScript and SQL, streamlining data processing and replacing traditional paper forms. This resulted in a 60% reduction in workload and notably expedited intake.', 
+        'Managed 12 - 15 Optometry Technicians, including training on the ophthalmic instruments.', 
+        'Orchestrated quality assurance efforts by overseeing data entry, achieving 99.9% accuracy.',
+        'Developed a recording solution designed to capture doctors\' verbal recordings for outsourced data entry.'
       ]
     },
     { title:'Director of IT Operations', 
@@ -45,9 +47,10 @@ let resumeData = {
     end_date:'20160114', 
     bullet_points:
       [
-        'Designed and maintained 30+ paywall websites utilizing SQL, PHP, JavaScript, HTML, and CSS. This effort resulted in increased sales conversions and facilitated the conversion to a full telework call center.', 
-        'Enhanced online presence by assisting in SEO, social media, and AdWords. Increased web traffic by 40%; conversions rose by 20%.', 
-        'Developed, managed, and secured VOIP PBX, IVR, payment merchant accounts, and dozens of remote SIP stations. Achieved 99.5% uptime.'
+        'Designed and deployed 30+ paywall websites utilizing PHP, JavaScript, SQL, HTML, CSS and technologies.', 
+        'Enhanced online visibility by assisting with SEO strategies, social media campaigns, and managing Google AdWords. These efforts resulted in a notable 40% surge in web traffic and a 20% increase in conversion rates.', 
+        'Supervised 25 - 30 customer service representatives, as well as assisting in hiring and firing processes.',
+        'Implemented a FreePBX solution on CentOS (Linux) for VOIP, IVR, SIP stations, with a 99.5% system uptime.'
       ]
     },
     { title:'Director of IT Operations', 
@@ -57,11 +60,13 @@ let resumeData = {
           end_date:'20150114', 
           bullet_points:  
             [
-              'Created educational WordPress websites for the Department of Aging and Disabilities (D.A.D.S.) Program. This resulted in additional government funding, secured community funding for group home purchases and rentals, and an immediate growth in client intake.'
+              'Designed and launched educational WordPress websites for the Department of Aging and Disabilities (D.A.D.S.) Program, leading to increased government funding. This success secured additional community funding for group home acquisitions and rentals, and directly contributed to an immediate surge in intakes.',
+              'Directed 20+ employees within community homes and corporate offices, providing technical training.',
+              'Maintained VOIP, PBX, IVR, and numerous SIP stations, ensuring a robust communication infrastructure.'
             ]
     }
   ],
-  summary: 'A highly motivated and creative software developer with three years of experience in the field, showcasing strong proficiency in PHP, JavaScript, SQL, and Git, while maintaining a practical approach to problem-solving.',
+  summary: 'Detail-oriented developer with 5+ years of experience in web development and data science, currently part of SFG, a technology and operations solutions company. Driven by a passion for innovative web apps that utilize data analytics to address real-world problems.',
   education: [
     { title:'Full Stack Web Development', 
         company:'+ Data Science [Boot Camp]', 
