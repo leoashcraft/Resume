@@ -12,7 +12,7 @@ let resumeData = {
         'Piloted development team in creating partner data analytics portal. Leveraging PHP, JavaScript, DB2 SQL, CSS, as well as jQuery, AJAX, and APIs. Increased engagement by 30%.', 
         'Engaged in 100% of the Software Development Life Cycle (SDLC), adopting best practices and OWASP standards across coding, reviews, source version control (Git), builds, testing, and operations.', 
         'Enhanced software reliability and user experience (UX) by resolving bugs, reducing post-launch issues by 80%. Quality assurance streamlined development cycle for quicker feature delivery.',
-        'Ported 30+ reports and pages from IBM's Net.Data to PHP/JavaScript, aligning with current web standards.'
+        'Ported 30+ reports and pages from IBM\'s Net.Data to PHP/JavaScript, aligning with current web standards.'
       ]
     },
     { title:'Network Specialist II', 
